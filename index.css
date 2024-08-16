@@ -1,0 +1,23 @@
+*{
+    /* background-image: linear-gradient(rgb(249, 249, 252),rgb(252, 122, 122)); */
+    background-image: url(/jenn-wood-1HMl4gY9bl4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 50pc;
+    background-size: cover;
+    background: fixed;
+}
+.container{
+    background-position: center;
+    border-radius: 50vw;
+    background-image: none;
+}
+.h1{
+    font-style: italic;
+    background-image: none;
+}
+.input{
+    /* background-image:x none; */
+}
+.btn{
+    background-image: none;
+}
